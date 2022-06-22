@@ -1,0 +1,9 @@
+backbone:
+  type: resnet50
+  input_3X3: False
+  dcn: False
+  cbam: False
+  no_layer_att: False
+  se: False
+  se_att: False
+  cor_att: False
